@@ -1,5 +1,5 @@
 =========================
-NLP_emerging_technologies
+nlp-emerging-technologies
 =========================
 
 
@@ -17,7 +17,6 @@ NLP_emerging_technologies
 
 
 Identification of emerging technologies with NLP-powered networks
-
 
 * Free software: MIT license
 * Documentation: https://nlp-emerging-technologies.readthedocs.io.

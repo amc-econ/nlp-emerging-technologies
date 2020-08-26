@@ -140,3 +140,4 @@ cython_debug/
 # For the server, do not track the data and the settings
 data/
 settings/
+.DS_Store

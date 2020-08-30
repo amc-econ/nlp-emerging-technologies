@@ -10,6 +10,7 @@ Project overview
 Identifying emerging technologies and understanding how they appear is a priority concern for policy-makers, since they can have “a revolutionary impact on the economy and society” [1]. In the EU, recent efforts technological push were recently targetted towards the battery value chain (European Battery Alliance, 2017) and cloud computing (Gaïa-X, 2020). 
 
 Three main research questions in innovation economics this project aim to answer are:
+
 􏰀* (1) How and where does emerging technologies arise?
 􏰀* (2) How do emerging technologies evolve, compete, and spread over
 time?
@@ -19,6 +20,7 @@ Data
 -------
 
 We use three datasets:
+
 􏰀* Patent data: [PATSTAT](https://www.epo.org/searching-for-patents/business/patstat.html);
 􏰀* Patent text: [EP full-text data for text analytics](https://www.epo.org/searching-for-patents/data/bulk-data-sets/text-analytics.html);
 􏰀* Financial and ownership information about the patentees:

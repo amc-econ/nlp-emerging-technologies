@@ -11,16 +11,9 @@ Identifying emerging technologies and understanding how they appear is a priorit
 
 Three main research questions in innovation economics this project aim to answer are:
 
-􏰀* (1) How and where does emerging technologies arise?
-􏰀* (2) How do emerging technologies evolve, compete, and spread over
-time?
-􏰀* (3) What are the drivers of emerging technologies?
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. How and where does emerging technologies arise?
+1. How do emerging technologies evolve, compete, and spread over time?
+1. What are the drivers of emerging technologies?
 
 Data
 -------

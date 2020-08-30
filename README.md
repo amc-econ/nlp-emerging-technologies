@@ -11,17 +11,17 @@ Identifying emerging technologies and understanding how they appear is a priorit
 
 Three main research questions in innovation economics this project aim to answer are:
 
-􏰀* (1) How and where does emerging technologies arise?
-􏰀* (2) How do emerging technologies evolve, compete, and spread over
+􏰀- 1 How and where does emerging technologies arise?
+􏰀- How do emerging technologies evolve, compete, and spread over
 time?
-􏰀* (3) What are the drivers of emerging technologies?
+􏰀- What are the drivers of emerging technologies?
 
 Data
 -------
 
 We use three datasets:
 
-􏰀* Patent data: [PATSTAT](https://www.epo.org/searching-for-patents/business/patstat.html);
+* Patent data: [PATSTAT](https://www.epo.org/searching-for-patents/business/patstat.html);
 􏰀* Patent text: [EP full-text data for text analytics](https://www.epo.org/searching-for-patents/data/bulk-data-sets/text-analytics.html);
 􏰀* Financial and ownership information about the patentees:
 [ORBIS](https://www.bvdinfo.com/en-gb/our-products/data/international/orbis).

@@ -21,9 +21,12 @@ Data
 We use three datasets:
 
 * Patent data: [PATSTAT](https://www.epo.org/searching-for-patents/business/patstat.html);
+
 􏰀* Patent text: [EP full-text data for text analytics](https://www.epo.org/searching-for-patents/data/bulk-data-sets/text-analytics.html);
+
 􏰀* Financial and ownership information about the patentees:
 [ORBIS](https://www.bvdinfo.com/en-gb/our-products/data/international/orbis).
+
 
 Because of the size of the data and its proprietary nature, it is not included in the repository. However, the notebooks and model allow to create the datasets used in this study from scratch.
 
@@ -32,10 +35,10 @@ Methodology
 
 The methodology follows a four steps process:
 
-􏰀* (1) Identification of links between technological items and assessment of their quality with NLP techniques;
-* 􏰀(2) Modelling of the technological knowledge as large-scale networks;
-* 􏰀(3) Tracking of the emergence and diffusion of technological ideas with community detection algorithms;
-* 􏰀(4) Statistical analysis to identify the the factors driving the emergence of new technologies.
+1. Identification of links between technological items and assessment of their quality with NLP techniques;
+2. Modelling of the technological knowledge as large-scale networks;
+3. Tracking of the emergence and diffusion of technological ideas with community detection algorithms;
+4. Statistical analysis to identify the the factors driving the emergence of new technologies.
 
 The `report` folder of the repository contains more details about the methodology, while its implementation in Python can be found in `models` and `notebooks`. 
 

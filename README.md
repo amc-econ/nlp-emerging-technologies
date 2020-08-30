@@ -24,6 +24,11 @@ Work in progress
 Possible applications
 -------
 
+Main references
+-------
+
+* [1] Martin, Ben R. 1995. “Foresight in Science and Technology.” Technology Analysis & Strategic Management 7 (2): 139–68.
+
 Credits
 -------
 

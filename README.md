@@ -21,9 +21,7 @@ Data
 We use three datasets:
 
 * Patent data: [PATSTAT](https://www.epo.org/searching-for-patents/business/patstat.html);
-
 􏰀* Patent text: [EP full-text data for text analytics](https://www.epo.org/searching-for-patents/data/bulk-data-sets/text-analytics.html);
-
 􏰀* Financial and ownership information about the patentees:
 [ORBIS](https://www.bvdinfo.com/en-gb/our-products/data/international/orbis).
 

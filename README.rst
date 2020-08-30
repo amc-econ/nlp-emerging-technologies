@@ -4,9 +4,28 @@ nlp-emerging-technologies
 
 Identification of emerging technologies with NLP-powered networks
 
-* Free software: MIT license
+* Free software: MIT license [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 * Research code for the working paper *Identification of emerging technologies with NLP-powered networks*
 
+
+Introduction
+-------
+
+
+Data
+-------
+
+Methodology
+-------
+
+Achievements
+-------
+
+Work in progress
+-------
+
+Possible applications
+-------
 
 Credits
 -------

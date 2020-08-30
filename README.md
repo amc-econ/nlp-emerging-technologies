@@ -7,7 +7,7 @@
 Project overview
 -------
 
-Identifying emerging technologies and understanding how they appear is a priority concern for policy-makers, since they can have “a revolutionary impact on the economy and society” [1]. In the EU, recent efforts technological push were recently targetted towards the battery value chain (European Battery Alliance, 2017) and cloud computing (Gaïa-X, 2020). 
+Identifying emerging technologies and understanding how they appear is a priority concern for policy-makers, since they can have “a revolutionary impact on the economy and society” [1]. In the EU, recent efforts technological push were recently targetted towards the battery value chain (European Battery Alliance, 2017) and cloud computing (Gaïa-X, 2020). Deploying overarching industial policies in a specific technology implies picking a winner, or face failure.
 
 Three main research questions in innovation economics this project aim to answer are:
 
@@ -43,20 +43,34 @@ The `report` folder of the repository contains more details about the methodolog
 Achievements
 -------
 
+- [x] Implementation of the model in Python
+- [x] Setting up queries to retrieve data from PATSTAT and the EP-full-text database
+- [x] Parsing the full-text data of the EP-full-text database (stored in XML format)
+- [x] Create of a new similarity measure based on natural language processing
+- [x] Feature enginering of the best similarity measures for patent data
+- [x] Identifcation of the data coverage of the full-text data
+- [x] Implementation of machine translation for patents
+- [x] Creation of the data visualisation tools
+
 Work in progress
 -------
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
 
-Possible applications
+- [ ] Implement an alternative clustering technique for community detection in weighted dynamic networks: the Stabilised Louvain Method [2]
+- [ ] Track the communities over time using the Jaccard distance, and model their evolution using S-curves
+- [ ] Setting all the pieces of the model together!
+- [ ] Introduce firm level data in the model
+- [ ] Application of the model to the EV battery field
+
+Caveats identified
 -------
+
+* All juridictions seem to be covered at almost 100% by an EP publication but the US ones!
 
 Main references
 -------
 
 * [1] Martin, Ben R. 1995. “Foresight in Science and Technology.” Technology Analysis & Strategic Management 7 (2): 139–68.
+* [2] Aynaud, Thomas, and Jean-Loup Guillaume. 2010. “Static Community Detection Algorithms for Evolving Networks.” In 8th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks, 513–19. IEEE.
 
 Credits
 -------

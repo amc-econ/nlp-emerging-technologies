@@ -4,9 +4,10 @@
 
 > Identification of emerging technologies with NLP-powered networks
 
-Introduction
+Project overview
 -------
 
+Identifying emerging technologies and understanding how they appear is a priority concern for policy-makers, since they can have “a revolutionary impact on the economy and society” [1]
 
 Data
 -------

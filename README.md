@@ -21,8 +21,8 @@ Data
 We use three datasets:
 
 * Patent data: [PATSTAT](https://www.epo.org/searching-for-patents/business/patstat.html);
-􏰀* Patent text: [EP full-text data for text analytics](https://www.epo.org/searching-for-patents/data/bulk-data-sets/text-analytics.html);
-􏰀* Financial and ownership information about the patentees:
+* Patent text: [EP full-text data for text analytics](https://www.epo.org/searching-for-patents/data/bulk-data-sets/text-analytics.html);
+* Financial and ownership information about the patentees:
 [ORBIS](https://www.bvdinfo.com/en-gb/our-products/data/international/orbis).
 
 
@@ -45,6 +45,10 @@ Achievements
 
 Work in progress
 -------
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 Possible applications
 -------

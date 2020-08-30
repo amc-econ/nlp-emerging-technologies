@@ -9,6 +9,10 @@ nlp-emerging-technologies
 .. image:: https://img.shields.io/travis/AntoineAMC/nlp_emerging_technologies.svg
         :target: https://travis-ci.com/AntoineAMC/nlp_emerging_technologies
 
+.. image:: https://readthedocs.org/projects/nlp-emerging-technologies/badge/?version=latest
+         :target: https://nlp-emerging-technologies.readthedocs.io/en/latest/?badge=latest
+         :alt: Documentation Status
+
 
 
 

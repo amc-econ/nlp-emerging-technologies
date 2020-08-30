@@ -55,7 +55,7 @@ Achievements
 Work in progress
 -------
 
-- [ ] Implement an alternative clustering technique for community detection in weighted dynamic networks: the Stabilised Louvain Method [2]
+- [ ] Implement the chosen clustering technique for community detection in weighted dynamic networks: the Stabilised Louvain Method [2]
 - [ ] Track the communities over time using the Jaccard distance, and model their evolution using S-curves
 - [ ] Setting all the pieces of the model together!
 - [ ] Introduce firm level data in the model

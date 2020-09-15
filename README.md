@@ -9,6 +9,11 @@ Project overview
 
 Identifying emerging technologies and understanding how they appear is a priority concern for policy-makers, since they can have “a revolutionary impact on the economy and society” [1]. In the EU, recent efforts technological push were recently targetted towards the battery value chain (European Battery Alliance, 2017) and cloud computing (Gaïa-X, 2020). Deploying overarching industial policies in a specific technology implies picking a winner, or face failure.
 
+This project aims to design a method to identify emerging technologies using patent text data: 
+1. We link the patents based on their content via Natural Language Processing (NLP);
+1. This yield a weighted patent network which evolves over time, as new patents are granted; 
+1. We then identify in the network the clusters representing emerging technologies and forecast their rise.
+
 Three main research questions in innovation economics this project aim to answer are:
 
 1. How and where does emerging technologies arise?

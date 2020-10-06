@@ -7,6 +7,10 @@
 Project overview
 -------
 
+The digitalization of the patent literature over the past decades and the emergence of natural language processing (NLP) techniques now allow to use the very rich and largely unexplored information contained in the inside of patents (abstract, patent claims). While patent metadata has been largely used in the field of innovation economics and in technological forecasting, patent text data is still a largely unexplored frontier. Until the most recent years, only researchers and practitioners were able to process this textual information and to assess qualitatively how patents are interacting with each other, in a time-consuming process. The use of bibliometrics mesures such as citation counts or keywords allow to link patents with one another, but largely fails to assess the nature of the interaction between a given pair of patents linked by a citation: for instance, a patent can consist in a slight incremental improvement of a previous patented invention, cite another one for the sake of completness, or import a technique from another field and be the starting point of a whole new branch of its discipline. 
+
+By combining NLP techniques to compare the similarity of any pair of patents (claims) and statistical analysis of the associated patent networks, we aim to identify in emerging technologies.
+
 Identifying emerging technologies and understanding how they appear is a priority concern for policy-makers, since they can have “a revolutionary impact on the economy and society” [1]. In the EU, recent efforts technological push were recently targetted towards the battery value chain (European Battery Alliance, 2017) and cloud computing (Gaïa-X, 2020). Deploying overarching industial policies in a specific technology implies picking a winner, or face failure.
 
 This project aims to design a method to identify emerging technologies using patent text data: 
@@ -60,6 +64,8 @@ Achievements
 Work in progress
 -------
 
+- [ ] Implement the text processing step
+- [ ] Implement the text similarity metric
 - [ ] Implement the chosen clustering technique for community detection in weighted dynamic networks: the Stabilised Louvain Method [2]
 - [ ] Track the communities over time using the Jaccard distance, and model their evolution using S-curves
 - [ ] Setting all the pieces of the model together!

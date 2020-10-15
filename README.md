@@ -64,7 +64,7 @@ Achievements
 Work in progress
 -------
 
-- [ ] Get the text data corresponding to the patent of interest
+- [ ] Get the text data corresponding to the patent of interest and store it in the patent objects of the model
 - [ ] Implement the text processing step
 - [ ] Implement the text similarity metric
 - [ ] Implement the chosen clustering technique for community detection in weighted dynamic networks: the Stabilised Louvain Method [2]

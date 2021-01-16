@@ -9,6 +9,7 @@
 3. **Comparison between the new classification and the CPC and IPC classification**. Create a heatmap and show that the clusters are logical in all the domains and partially recover the CPC/IPC classification.
 4. What if we **change the text source**, using the first page in spite of the claims? Do the clusters remain the same?
 5. Does the result change while using different **clustering methods**?
+6. Show the results for at least 3 different technological domains (CPC/IPC codes).
 
 
 ## Model extension
